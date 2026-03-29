@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Merhaba, ben Şahin
 
-<!--
-**ucanbaykus/ucanbaykus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web script geliştiricisi  
+⚡ Otomasyon sistemleri & özel projeler  
+🚀 Sürekli yeni şeyler öğreniyorum  
 
-Here are some ideas to get you started:
+## 🛠️ Kullandıklarım
+- JavaScript / Node.js
+- HTML / CSS
+- API & Backend sistemler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Bana ulaş
+- Discord: sahin#0001
