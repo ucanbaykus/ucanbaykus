@@ -42,11 +42,11 @@ Performanslı, ölçeklenebilir ve modern sistemler üzerine çalışıyorum.
 <h3 align="center">Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ucanbaykus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KULLANICIADIN&theme=tokyo-night&bg_color=00000000&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ucanbaykus&theme=tokyo-night&bg_color=00000000&hide_border=true" />
 </p>
 
 ---
